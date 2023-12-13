@@ -11,7 +11,7 @@
 - Trivia
 - Video games
 
-### **Things I think you should check out** (I didn't make these)
-(I did not make these)
+### **Things I think you should check out!**
+(I DID NOT MAKE THESE!)
 - [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage)
 - [GenP](https://www.reddit.com/r/GenP)
