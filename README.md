@@ -1,9 +1,9 @@
 # Hi 👋
-### **Learning**
+## **Learning**
 - HTML
 - CSS
 
-### **Interested in**
+## **Interested in**
 - Animals
 - Design
 - History
@@ -11,7 +11,8 @@
 - Trivia
 - Video games
 
-### **Things I think you should check out!**
-(I DID NOT MAKE THESE!)
-- [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage)
-- [GenP](https://www.reddit.com/r/GenP)
+## **Things I think you should check out!**
+- [🕰️ Wayback Machine ](https://web.archive.org)
+- [💸 FMHY](https://fmhy.net)
+- [🎵 Forgotify](https://forgotify.com)
+- [📱 Hotspot 3D](https://www.hotspot3d.com)
