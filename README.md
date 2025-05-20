@@ -2,6 +2,7 @@
 ## **Learning**
 - CSS
 - HTML
+- JS
 
 ## **Interested in**
 - Animals
